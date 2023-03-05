@@ -1,0 +1,10 @@
+{
+	"bot_token": "this_is:a_fake_token",
+	"bot_debug": false,
+	"server_path": "https://loc.example.com",
+	"bind_address": "0.0.0.0:80",
+	"group_limit": 1000,
+	"fetch_user_pic": true,
+	"enable_map": false
+}
+
